@@ -1,0 +1,7 @@
+{
+  "name": "data-journalism-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "description": "A traditional newspaper-inspired one-page portfolio template",
+  "scripts": { "start": "node site/server.mjs", "check": "node --check site/dist/script.js" }
+}
